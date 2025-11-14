@@ -1,6 +1,6 @@
 # Estudo sobre o Padrão MVC
 
-Este documento resume os aprendizados práticos sobre o padrão de arquitetura **Model-View-Controller (MVC)**, um dos conceitos fundamentais no desenvolvimento de sistemas web organizados e escaláveis. O objetivo aqui é explicar de forma clara o papel de cada camada e como elas colaboram para criar uma aplicação funcional.
+Este documento resume os aprendizados práticos sobre o padrão de arquitetura **Model-View-Controller (MVC)**, um dos conceitos fundamentais no desenvolvimento de sistemas web organizados e escaláveis.
 
 ## Os Três Pilares do MVC
 
