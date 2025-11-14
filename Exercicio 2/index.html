@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Produtos (MVC)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Cadastro de Produtos</h1>
+    <form id="form-produto">
+        <input type="text" id="input-nome-produto" placeholder="Nome do Produto" required>
+        <input type="number" id="input-preco-produto" placeholder="Preço do Produto" step="0.01" required>
+        <button type="submit">Cadastrar</button>
+    </form>
+    <h2>Produtos Cadastrados</h2>
+    <div id="lista-produtos">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
